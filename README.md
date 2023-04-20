@@ -1,1 +1,0 @@
-# myMar2022WeekdayBatchRepo
